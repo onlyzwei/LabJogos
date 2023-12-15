@@ -10,6 +10,6 @@ Antes de começar a jogar, certifique-se de que você tenha o Pygame. Você pode
 pip install pygame
 ```
 <p align="center">
-  <img src="pong.gif" alt="" />
+  <img src="game.gif" alt="" />
 </p>
 
