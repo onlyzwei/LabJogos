@@ -4,7 +4,7 @@ Este é um simples jogo simples que brinca com a gravidade criado no Laboratóri
 
 ## Instalação
 
-Antes de começar a jogar, certifique-se de que você tenha o Pygame. Você pode fazer isso facilmente usando o pip:
+Antes de começar a jogar, instale o Pygame. Você pode fazer isso facilmente usando o pip:
 
 ```bash
 pip install pygame
